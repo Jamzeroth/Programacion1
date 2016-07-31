@@ -1,0 +1,9 @@
+Hola que tal
+Segunda linea
+
+
+Clientes.txt
+Vendedores.txt
+Productos.txt
+Ventas.txt
+acabado

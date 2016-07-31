@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448985666 source:c:\users\jael\documents\progra\primerproyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+

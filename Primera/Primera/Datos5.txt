@@ -1,0 +1,6 @@
+El valor introducido en base 10 es: 98
+En base octal es:142
+En base hexadecimal es: 62
+Utilizando los los manipuladores uppercase y showcaseel valor es: 0X62
+Utilizando los manipuladores showpos,Showpoint y fixed: +98.000000
+Finalmente el valor es 98

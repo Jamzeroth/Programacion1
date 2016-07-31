@@ -1,0 +1,4 @@
+1#Monitor LED#$44.23
+2#Teclado inalambrico#$21.30
+3#Mouse inalambrico#$9.20
+4#Memory Flash 8GB#$8.80
